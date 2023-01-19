@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/MongoDB.AspNetCore/bin/Debug/net5.0
+/MongoDB.AspNetCore/obj
+/MongoDB.AspNetCore.Data/bin/Debug/net5.0
+/MongoDB.AspNetCore.Data/obj
